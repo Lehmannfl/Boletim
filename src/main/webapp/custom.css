@@ -1,7 +1,7 @@
 .btn{
     font-family: Arial, Verdana, Tahoma, Sans-Serif;
     font-size: 20px;
-    text-transform: uppercase;
+    text-transform: lowercase;
     font-weight: 700;
     border: none;
     padding: 10px;
