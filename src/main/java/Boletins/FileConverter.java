@@ -7,7 +7,7 @@ import java.util.Formatter;
 
 public class FileConverter {
     public static void main(String[] args) {
-        String filePath = "C:/Users/Administrador/IdeaProjects/Boletim/src/main/java/Boletins/Dados.txt"; // Substitua pelo caminho correto do arquivo
+        String filePath = "C:/Users/Administrador/IdeaProjects/Boletim/src/main/java/Boletins/PrimeiroBimestre.txt"; // Substitua pelo caminho correto do arquivo
 
         try (BufferedReader br = new BufferedReader(new FileReader(filePath))) {
             String line;

@@ -9,19 +9,19 @@
     display: inline-block;
 }
 .btn{
-    background: green;
+    background: #6ef64b;
     color: #ffffff;
-    box-shadow: 0 5px 0 #006000;
+    box-shadow: 0 5px 0 #6ef64b;
 }
 .btn-green{
     background: green;
     color: #ffffff;
-    box-shadow: 0 5px 0 #006000;
+    box-shadow: 0 5px 0 #6ef64b;
 }
 .btn-green:hover{
     background: #006000;
     color: #ffffff;
-    box-shadow: 0 5px 0 #003f00;
+    box-shadow: 0 5px 0 #6ef64b;
 }
 .btn-green:active{
    position: relative;
