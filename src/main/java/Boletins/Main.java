@@ -7,7 +7,8 @@ public class Main {
 
 
         DataProcessor dataProcessor = new DataProcessor();
-        dataProcessor.processFile("C:/Users/Administrador/IdeaProjects/Boletim/src/main/java/PrimeiroBimestre.txt");
+
+
 
 
         //Informando a linha de Componentes Curriculares

@@ -1,0 +1,151 @@
+
+thead{color: #090909
+}
+thead{ background-color: #be814d
+}
+
+
+th,td{
+    border: 1px solid #625959;
+    border-radius: 20px;
+    background-color: #c1d2d3;
+    text-align: center;
+    padding: 2px;
+
+}
+tr{
+    padding: 4px;
+    white-space: pre-line;
+    text-align: left;
+
+
+
+}
+table {
+    background-color: #76bfd5;
+    color:black;
+    font-size: 10px;
+    text-align: left;
+    border-radius: 10px;
+    margin: 0 auto ;
+
+
+
+
+
+}
+body{
+    font-family: Arial, Verdana, Tahoma, Sans-Serif;
+    color: #262525;
+    font-size: 16px;
+    text-align: center;
+
+}
+fundo{
+    background-color: #337ab7;
+}
+
+p{
+    line-height: 150%;
+    text-align: center;
+    font-size: 12px;
+    padding: 100px;
+}
+h1{
+    font-size: 30px;
+    color: #003366;
+    text-transform: uppercase;
+}
+h3{
+    font-size: 20px;
+    padding: 30px;
+    background-color: #E3E3E3;
+    color: #4C4C4C;
+    border-radius: 10px;
+}
+legend{
+    font-size: 20px;
+    padding: 5px;
+    color: #720d0d;
+}
+
+.dropDown{
+    font-family: Arial, Verdana, Tahoma, Sans-Serif;
+    font-size: 20px;
+    width: 300px;
+    height: 40px;
+    background-color: #23cc23;
+    border-radius: 10px;
+    margin-top: 4px;
+    border:  none;
+    color: #ffffff;
+    overflow: auto;
+    text-align: center;
+    font-weight: 700;
+}
+
+
+.btn{
+    font-family: Arial, Verdana, Tahoma, Sans-Serif;
+    font-size: 20px;
+    text-transform: none;
+    font-weight: 700;
+    border-radius: 10px;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    display: inline-block;
+    text-align: center;
+}
+.btn{
+    background: #1e8d1e;
+    color: #ffffff;
+    box-shadow: 0 5px 0 #006000;
+}
+.btn-green{
+    background: #35c535;
+    color: #ffffff;
+    box-shadow: 0 5px 0 #006000;
+}
+.btn-green:hover{
+    background: #23cc23;
+    color: #ffffff;
+    box-shadow: 0 5px 0 #006000;
+}
+.btn-green:active{
+    position: relative;
+    top: 5px;
+    box-shadow: none;
+}
+.vertical-text {
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    text-align: right;
+}
+.vertical-table{
+    transform: rotate(100grad);
+
+}
+.opcao-label{
+    border-radius: 20px;
+    background-color: #E3E3E3;
+}
+.media-menor {
+    color: red; /* Define a cor vermelha para o texto */
+    font-weight: bold; /* Deixa o texto em negrito para destacar */
+}
+.media-maior {
+    color: blue; /* Define a cor vermelha para o texto */
+    font-weight: bold; /* Deixa o texto em negrito para destacar */
+}
+
+.red-cell {
+    background-color: red;
+}
+
+.imagemSimade{
+    border-radius: 10px;
+    padding: 5px;
+    image-rendering: initial;
+    width:50%;
+}
