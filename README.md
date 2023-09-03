@@ -1,1 +1,1 @@
-# Boletim escolar consulta por número de matrícula. O projeto busca pelo início de uma linha em um arquivo "BoletimAuno.txt" até encontrar uma linha em branco. Essa Busca é disponibilzada em uma tabela com dados do Boletim do aluno.
+# Boletim escolar consulta por número de matrícula. O projeto busca pelo início de uma linha em um arquivo "BoletimAluno.txt" até encontrar uma linha em branco. Essa Busca é disponibilzada em uma tabela com dados do Boletim do aluno.
